@@ -41,7 +41,7 @@ const Index = () => {
   const features = [
     {
       title: 'Modern Design',
-      description: 'Beautiful, minimalist interfaces that follow Apple's design principles for a premium user experience.',
+      description: "Beautiful, minimalist interfaces that follow Apple's design principles for a premium user experience.",
       icon: <Sparkles className="w-6 h-6 text-cheruPurple-400" />,
       gradient: 'bg-gradient-to-br from-cheruPurple-50 to-cheruPurple-100',
       link: '/features'
